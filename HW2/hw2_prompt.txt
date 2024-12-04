@@ -1,0 +1,12 @@
+You will have to perform the following tasks:
+1. Load the dataset.
+2. Perform k-means clustering. Determine the optimal number of clusters, for e.g. using elbow method. 
+3. Perform clustering with different methods as implemented in scikit-learn. 
+4. Now, try clustering with another distance metric (e.g. Cosine, Jaccard, etc.). 
+Hint: Think whether the default distance metric is appropriate for your dataset or not.
+5. Visualize results using the dimensionality reduction (UMAP or tSNE) techniques with respect to the cluster labels. 
+6. Compare clustering results. Try to rationalize observed commonalities or differences with respect to clustering methods and distance metrics used.
+
+ 
+
+NOTE: Please submit your work only on this course's Gradescope as a single zipped file containing the python script(s) (.ipynb or .py) + your write-up/discussion (add as pdf or text cell(s) in notebook). Rename the file as HW2_FirstNameLastName.zip before submission. This is crucial for TAs as it helps them save time by avoiding the need to navigate through multiple file submissions from a single student while grading.
