@@ -29,3 +29,8 @@ Your task is to predict the disease type (phenotype) from transcriptomics data. 
 ## HW4: Classification of Green Fluorescent Protein (https://www.kaggle.com/competitions/f24-38615-hw4)
 
 In this work you will predict the brightness level binarized for classification between high brightness (class 1) and low brightness (class 0) for a set of mutants of Green Fluorescent Protein. Please explore descriptors/featurizations for amino acid sequences. Overfitting is prevented by using a public and private leaderboard.
+
+
+## HW5: Band gap prediction of inorganic materials (https://www.kaggle.com/competitions/f24-38615-hw5)
+
+You can start with basic models, and then try your best to optimize your predictions by using more sophisticated models, feature engineering, and fine-tuning the hyperparameters. Your grade for this homework will mainly depend on your Kaggle score(s). There is no specific requirement for a written summary for this homework, but please leave some necessary comments in your submission to help the grader understand your workflow.
